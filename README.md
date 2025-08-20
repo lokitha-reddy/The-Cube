@@ -52,7 +52,7 @@ The-Cube/
 
 ---
 
-##🎮 Controls
+## 🎮 Controls
 
 - Drag Mouse → Rotate cube
 - Arrow Keys → Rotate along X/Y axis
@@ -61,8 +61,8 @@ The-Cube/
 
   ---
 
-  ##📸 Demo Preview
+  ## 📸 Demo Preview
   "C:\Users\nloki\Desktop\OneDrive\Videos\Screen Recordings\Screen Recording 2025-08-20 084915.mp4"
 ---
 
-##✨ Made with ❤️ using HTML, CSS, and JavaScript.
+## ✨ Made with ❤️ using HTML, CSS, and JavaScript.
