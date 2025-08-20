@@ -62,7 +62,8 @@ The-Cube/
   ---
 
   ## 📸 Demo Preview
-  "C:\Users\nloki\Desktop\OneDrive\Videos\Screen Recordings\Screen Recording 2025-08-20 084915.mp4"
+
+![Demo Preview](![Uploading demo.gif…])
 ---
 
 ## ✨ Made with ❤️ using HTML, CSS, and JavaScript.
