@@ -61,9 +61,10 @@ The-Cube/
 
   ---
 
-  ## 📸 Demo Preview
+## 📸 Demo Preview
 
-![Demo Preview](![Uploading demo.gif…])
+![Demo Preview](demo.gif)
+
 ---
 
 ## ✨ Made with ❤️ using HTML, CSS, and JavaScript.
