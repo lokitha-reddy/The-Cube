@@ -38,6 +38,7 @@ The-Cube/
 │── index.html      # Main HTML file
 │── style.css       # Cube styling and animations
 │── script.js       # Interaction logic (rotation, events)
+│── demo.gif        # Demo video
 └── README.md       # Documentation
 ```
 ---
